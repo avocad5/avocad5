@@ -3,7 +3,6 @@ let projectname = ['EntMission','EntCanvas','avoMacro','3d ball run','엔플러�
 let projectment = []
 projectment.push('어려운 코딩문제를 원한다면 여기로오세요!')
 projectment.push('노마드코더님의 바닐라js강의를 보고 만든 사이트')
-projectment.push('자신의 작품을 avoMacro가 자동으로 홍보해줍니다!')
 projectment.push('렉이 없고, 삼각함수조차 쓰지않은 신박한 3d게임')
 projectment.push('누구나 출처없이 사용가능한 게임엔진입니다')
 projectment.push('나만의 카네이션을 그리고<br>다른사람들과 공유해보세요!')
@@ -24,7 +23,6 @@ projectment.push('딥러닝을 활용한 작품')
 let projectlink = []
 projectlink.push('https://avocad5.github.io/EntMission/')//엔트미션
 projectlink.push('https://avocad5.github.io/EntCanvas/')//엔트캔버스
-projectlink.push('https://playentry.org/ds#!/tips/5ec1158f64729e012555760f?category=tips&rows=20&title=&page=1&currentPage=1&sort=created&username=avocad5&isOwnerView&search_title=')//아보매크로
 projectlink.push('http://naver.me/xvdk8r1B')//3d ball run
 projectlink.push('http://naver.me/GNKw38I5')// 엔플러스엔진
 projectlink.push('http://naver.me/Fn8D7XGr')//카네이션그리기대회
