@@ -44,6 +44,6 @@ for(var i = 0; i<projectname.length; i++){ //버튼 생성
   if(i<2){
   document.getElementsByClassName('project')[0].innerHTML += `<a href="${projectlink[i]}"><img src="${i-2}.png"><div><p class="pname"><strong>${projectname[i]}</strong></p><p class="pment">${projectment[i]}</p></div></a>`
 } else{
-   document.getElementsByClassName('project')[0].innerHTML += `<a href="${projectlink[i]}"><img src="${i-3}.png"><div><p class="pname"><strong>${projectname[i]}</strong></p><p class="pment">${projectment[i]}</p></div></a>`
+   document.getElementsByClassName('project')[0].innerHTML += `<a href="${projectlink[i]}"><img src="${i-1}.png"><div><p class="pname"><strong>${projectname[i]}</strong></p><p class="pment">${projectment[i]}</p></div></a>`
 }
 }
