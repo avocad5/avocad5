@@ -5,11 +5,6 @@ body{
   margin: 0;
 }
 
-.ddd{
-  text-align:center;
-  font-size:15px;
-}
-
 .container {
   z-index:-1;
   display: inline-block;
@@ -155,4 +150,10 @@ body{
   border-color: black;
   color: #87FFB7;
   transition: 0.5s;
+}
+
+
+.ddd{
+  text-align:center;
+  font-size:15px;
 }
